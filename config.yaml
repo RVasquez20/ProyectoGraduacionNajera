@@ -1,7 +1,0 @@
-﻿GenerateToken:
-    Redirection: 
-        clientId: "23R8YM" 
-        state: "5e5r182f0z2q3k0o5f0752705p3n131h"
-        redirectUri: "https://localhost:7279/callback"
-    AccessToken: 
-        clientSecret: "8234a0b09f41d890a37daed3cf305b16"
